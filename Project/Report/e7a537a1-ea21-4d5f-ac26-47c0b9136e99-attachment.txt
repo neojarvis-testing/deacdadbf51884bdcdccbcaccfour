@@ -1,0 +1,6 @@
+Hovered over 'Bath'
+Clicked on 'Bath Tubs'
+Clicked on '3-6' filter
+Clicked first product
+Clicked 'Add to Bag'
+Clicked 'View Cart'

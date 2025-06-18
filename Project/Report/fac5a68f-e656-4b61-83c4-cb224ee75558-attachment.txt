@@ -1,0 +1,11 @@
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 BATH #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Bath Tubs #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked Bath Tubs0
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 3-6 mo-36440 #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked 36440
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Bleue Bebe - Sink Bather - Mint #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked Bleue Bebe - Sink Bather - Mint
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Add to Cart #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked Add to Cart
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 View Cart #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked View Cart
